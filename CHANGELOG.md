@@ -2,7 +2,7 @@
 
 ## CARLA-ROS-Bridge 0.9.14
 *   Updated ROS-bridge to PythonAPI of CARLA 0.9.14
-
+*   Fixed use of duplicated topic names for different message types in ROS2
 
 ## CARLA-ROS-Bridge 0.9.12
 
